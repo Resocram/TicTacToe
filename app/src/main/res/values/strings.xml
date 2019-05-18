@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="button1">Regular</string>
+    <string name="button2">Ultimate</string>
+    <string name="button3">Quantum</string>
+    <string name="button4">Your Choice</string>
+    <string name="player1_score">Player 1:</string>
+    <string name="player1_number_score">0</string>
+    <string name="player2_score">Player 2:</string>
+    <string name="player2_number_score">0</string>
+</resources>
